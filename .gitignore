@@ -1,0 +1,4 @@
+*.pyc
+./persistence
+.idea/
+persistence/
